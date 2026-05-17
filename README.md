@@ -4,17 +4,17 @@ UMKM-Toko adalah aplikasi desktop sederhana untuk membantu pelaku usaha mikro, k
 
 ---
 
-## 🚀 Fitur Unggulan
+## Fitur Unggulan
 
-- ✅ Manajemen produk (tambah, edit, hapus)
-- ✅ Pencatatan transaksi penjualan
-- ✅ Perhitungan total harga otomatis
-- ✅ Tampilan GUI yang mudah digunakan
-- ✅ Penyimpanan data lokal (database)
+- Manajemen produk (tambah, edit, hapus)
+- Pencatatan transaksi penjualan
+- Perhitungan total harga otomatis
+- Tampilan GUI yang mudah digunakan
+- Penyimpanan data lokal (database)
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - Python 3
 - Tkinter (GUI)
@@ -23,7 +23,7 @@ UMKM-Toko adalah aplikasi desktop sederhana untuk membantu pelaku usaha mikro, k
 
 ---
 
-## 📦 Cara Install dan Jalankan
+## Cara Install dan Jalankan
 
 1. Clone repository ini:
    ```bash
